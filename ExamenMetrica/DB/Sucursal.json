@@ -1,0 +1,27 @@
+﻿
+{
+	"Sucursal": [
+			{ 
+  			"Codigo": 1,
+  			"nombre": "SEDE LIMA",
+  			"direccion": "SAN LUIS 343",
+ 			"fechaRegistro": "15/05/2017",
+ 			"codigoBanco": 1
+			},
+			{ 
+  			"Codigo": 2,
+  			"nombre": "SEDE BENAVIDES",
+  			"direccion": "Av. begonias 1203",
+ 			"fechaRegistro": "12/01/2017".
+ 			"codigoBanco": 3
+			},
+			{ 
+  			"Codigo": 3,
+  			"nombre": "SEDE SAN ISIDRO",
+  			"direccion": "Av. CANAVAL Y MOREYRA 658",
+ 			"fechaRegistro": "05/04/2017",
+ 			"codigoBanco": 2
+			}
+
+	]
+}

@@ -1,0 +1,23 @@
+﻿{
+	"Banco": [
+			{ // Banco
+  			"Codigo": 1,
+  			"nombre": "BCP",
+  			"direccion": "SAN LUIS 343",
+ 			"fechaRegistro": "15/05/2017"
+			},
+			{ // Banco
+  			"Codigo": 2,
+  			"nombre": "Interbank",
+  			"direccion": "Av. begonias 1203",
+ 			"fechaRegistro": "12/01/2017"
+			},
+			{ // Banco
+  			"Codigo": 3,
+  			"nombre": "AZteca",
+  			"direccion": "Av. CANAVAL Y MOREYRA 658",
+ 			"fechaRegistro": "05/04/2017"
+			}
+
+	]
+}

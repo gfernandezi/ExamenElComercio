@@ -1,0 +1,22 @@
+﻿
+
+{
+	"OrdenDePago": [
+			{ 
+  			 "Codigo": 1,
+  			 "monto": 150.0,
+  			 "moneda": "SOLES",
+  			 "estado": "PAGADA",
+ 			 "fechaRegistro": "13/04/2017",
+ 			 "codigoBanco": 1
+			},
+			{ 
+  			 "Codigo": 2,
+  			 "monto": 560.0,
+  			 "moneda": "DOLARES",
+  			 "estado": "DECLINADA",
+ 			 "fechaRegistro": "01/05/2017",
+ 			 "codigoBanco": 3
+			}			
+	]
+}
